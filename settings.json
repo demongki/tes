@@ -1,0 +1,20 @@
+{
+    "self_mode": false,
+	"autobio": false,
+	"antihidetag": true,
+	"user_register": false,
+	"anti_delete" : false,
+	"anticall": true,
+	"auto_welcome_msg": true,
+	"auto_leave_msg": true,
+	"prefix": ".$#-ABCDEFGHIJKLMNOPQRSTUVWXYZ",
+	"language":"ind",
+	"ownerNumber": "62881036690566",
+	"ownerNumberr": "62881036690566",
+	"cr": "@BloodSword",
+	"ownername": "zakky",
+	"botname":"BloodSword",
+	"thumb":"thumbnail_1.jpg",
+	"fakethumb":"thumbnail_1.jpg", 
+	"fake": " 「  BloodSword  」\nCreated By @zakky"
+}
